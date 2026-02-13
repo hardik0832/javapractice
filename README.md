@@ -1,31 +1,24 @@
-# javapractice
-# Java Console Calculator
+# Student Record Management System
 
 ## Objective
-Build a basic calculator using Java console I/O.
+CLI-based CRUD system to manage student records using Java.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Loop for multiple calculations
-- Handles divide-by-zero
-
-## Technologies Used
-- Java (JDK)
-- Scanner class
-- Methods
-- Switch case
-- Loops
-
-## How to Run
-1. Compile: javac Calculator.java
-2. Run: java Calculator
+- Add Student
+- View Students
+- Update Student
+- Delete Student
 
 ## Concepts Used
-- OOP
-- Methods
-- Conditionals
-- Loops
-- Input/Output
+- Classes & Objects
+- Encapsulation
+- ArrayList
+- Loops & Switch Case
+- CRUD Operations
+
+## How to Run
+1. Compile:
+   javac Student.java StudentManagementSystem.java
+
+2. Run:
+   java StudentManagementSystem
