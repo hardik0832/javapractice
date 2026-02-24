@@ -1,0 +1,1 @@
+# Online Quiz App - Java Console Project## ObjectiveConsole-based quiz application using Java.## Features- Multiple choice questions- Random question order- Score calculation- Uses Java Collections## Concepts Used- OOP- ArrayList- Loops- Control Flow- Collections.shuffle()## How to Run1. Compile:   javac QuizApp.java QuizQuestion.java2. Run:   java QuizApp
